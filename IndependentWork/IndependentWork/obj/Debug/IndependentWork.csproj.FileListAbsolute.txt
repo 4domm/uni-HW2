@@ -1,0 +1,7 @@
+D:\solving\IndependentWork\IndependentWork\bin\Debug\IndependentWork.exe
+D:\solving\IndependentWork\IndependentWork\bin\Debug\IndependentWork.pdb
+D:\solving\IndependentWork\IndependentWork\obj\Debug\IndependentWork.csproj.AssemblyReference.cache
+D:\solving\IndependentWork\IndependentWork\obj\Debug\IndependentWork.csproj.SuggestedBindingRedirects.cache
+D:\solving\IndependentWork\IndependentWork\obj\Debug\IndependentWork.csproj.CoreCompileInputs.cache
+D:\solving\IndependentWork\IndependentWork\obj\Debug\IndependentWork.exe
+D:\solving\IndependentWork\IndependentWork\obj\Debug\IndependentWork.pdb
